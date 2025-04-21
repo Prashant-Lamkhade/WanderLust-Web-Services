@@ -1,0 +1,429 @@
+CRITICAL - 2024-02-19 03:55:48 --> ErrorException: Undefined property: CodeIgniter\View\View::$load
+in APPPATH\Views\new_listings.php on line 153.
+ 1 APPPATH\Views\new_listings.php(153): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$load', 'D:\\demopro\\App\\Views\\new_listings.php', 153)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\new_listings.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('new_listings', [], true)
+ 5 APPPATH\Controllers\WanderLust.php(31): view('new_listings')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->newlist()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 03:56:05 --> ErrorException: Undefined property: CodeIgniter\View\View::$load
+in APPPATH\Views\new_listings.php on line 153.
+ 1 APPPATH\Views\new_listings.php(153): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$load', 'D:\\demopro\\App\\Views\\new_listings.php', 153)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\new_listings.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('new_listings', [], true)
+ 5 APPPATH\Controllers\WanderLust.php(31): view('new_listings')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->newlist()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 03:56:06 --> ErrorException: Undefined property: CodeIgniter\View\View::$load
+in APPPATH\Views\new_listings.php on line 153.
+ 1 APPPATH\Views\new_listings.php(153): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$load', 'D:\\demopro\\App\\Views\\new_listings.php', 153)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\new_listings.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('new_listings', [], true)
+ 5 APPPATH\Controllers\WanderLust.php(31): view('new_listings')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->newlist()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 03:56:06 --> ErrorException: Undefined property: CodeIgniter\View\View::$load
+in APPPATH\Views\new_listings.php on line 153.
+ 1 APPPATH\Views\new_listings.php(153): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$load', 'D:\\demopro\\App\\Views\\new_listings.php', 153)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\new_listings.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('new_listings', [], true)
+ 5 APPPATH\Controllers\WanderLust.php(31): view('new_listings')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->newlist()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 03:56:10 --> ErrorException: Undefined property: CodeIgniter\View\View::$load
+in APPPATH\Views\new_listings.php on line 153.
+ 1 APPPATH\Views\new_listings.php(153): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$load', 'D:\\demopro\\App\\Views\\new_listings.php', 153)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\new_listings.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('new_listings', [], true)
+ 5 APPPATH\Controllers\WanderLust.php(31): view('new_listings')
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->newlist()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:08:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user_view.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user_view.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('user_view', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('user_view', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:32:19 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\all_listings.php on line 39.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:32:50 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\all_listings.php on line 39.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:32:51 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\all_listings.php on line 39.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:35:41 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\all_listings.php on line 48.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:36:13 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\all_listings.php on line 48.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:36:20 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\all_listings.php on line 48.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:36:42 --> ParseError: syntax error, unexpected end of file
+in APPPATH\Views\all_listings.php on line 46.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 04:51:28 --> ErrorException: Undefined array key "name"
+in APPPATH\Views\all_listings.php on line 20.
+ 1 APPPATH\Views\all_listings.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\demopro\\App\\Views\\all_listings.php', 20)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\all_listings.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 5 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 05:23:31 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "img.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('img.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('img', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('img')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 06:32:47 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "temp.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('temp.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('temp', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('temp')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 06:44:47 --> ErrorException: Undefined variable $value
+in APPPATH\Views\all_listings.php on line 16.
+ 1 APPPATH\Views\all_listings.php(16): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $value', 'D:\\demopro\\App\\Views\\all_listings.php', 16)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\all_listings.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 5 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 07:23:01 --> ParseError: syntax error, unexpected token "class"
+in APPPATH\Views\all_listings.php on line 15.
+ 1 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('all_listings', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(45): view('all_listings', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->allshow()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:29:11 --> ErrorException: Undefined variable $user_obj
+in APPPATH\Views\edit_list.php on line 13.
+ 1 APPPATH\Views\edit_list.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_obj', 'D:\\demopro\\App\\Views\\edit_list.php', 13)
+ 2 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\edit_list.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('edit_list', [], true)
+ 5 APPPATH\Controllers\WanderLust.php(88): view('edit_list', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edit_list('52')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:42:16 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:43:56 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:44:00 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:44:36 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:44:51 --> Error: Call to a member function move() on null
+in APPPATH\Controllers\WanderLust.php on line 106.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:46:15 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:50:39 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:50:57 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:53:18 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:54:40 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:54:44 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:55:23 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:55:45 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 104.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:58:16 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list('52')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 14:59:13 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list('52')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:01:30 --> Error: Call to a member function move() on null
+in APPPATH\Controllers\WanderLust.php on line 105.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list('52')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:02:58 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list('52')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:04:34 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list('52')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:06:06 --> Error: Call to a member function isValid() on null
+in APPPATH\Controllers\WanderLust.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list('52')
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:09:15 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(116): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:10:54 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(116): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:11:02 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(116): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:15:08 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(116): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list(null)
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:23:19 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(116): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:23:36 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(116): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:23:59 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(116): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:25:20 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(116): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-19 15:26:37 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+in SYSTEMPATH\Model.php on line 388.
+ 1 SYSTEMPATH\BaseModel.php(987): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(807): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Controllers\WanderLust.php(119): CodeIgniter\Model->update(null, [...])
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->edited_list()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')

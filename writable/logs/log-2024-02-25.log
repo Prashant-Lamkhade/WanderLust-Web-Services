@@ -1,0 +1,131 @@
+INFO - 2024-02-25 02:32:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:32:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:32:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 02:40:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-25 02:43:02 --> ErrorException: include(./header.php): Failed to open stream: No such file or directory
+in APPPATH\Views\login.php on line 1.
+ 1 APPPATH\Views\login.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(./header.php): Failed to open stream: No such file or directory', 'D:\\demopro\\App\\Views\\login.php', 1)
+ 2 APPPATH\Views\login.php(1): include()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\WanderLust.php(17): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-25 02:48:19 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "vendor/codeigniter4/shield/src/Views/login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('vendor/codeigniter4/shield/src/Views/login.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('vendor/codeigniter4/shield/src/Views/login', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(17): view('vendor/codeigniter4/shield/src/Views/login')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-25 03:08:49 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "login.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('login.php')
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('login', [], true)
+ 3 APPPATH\Controllers\WanderLust.php(17): view('login')
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+INFO - 2024-02-25 03:19:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 03:19:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 03:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 03:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 03:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 03:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 03:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 03:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-25 03:34:42 --> ErrorException: include(../../public/vendorcodeigniter4/shield/src/Views.login.php): Failed to open stream: No such file or directory
+in APPPATH\Views\login.php on line 2.
+ 1 APPPATH\Views\login.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../public/vendorcodeigniter4/shield/src/Views.login.php): Failed to open stream: No such file or directory', 'D:\\demopro\\App\\Views\\login.php', 2)
+ 2 APPPATH\Views\login.php(2): include()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\WanderLust.php(17): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-25 03:35:05 --> ErrorException: include(../../public/vendor/codeigniter4/shield/src/Views.login.php): Failed to open stream: No such file or directory
+in APPPATH\Views\login.php on line 2.
+ 1 APPPATH\Views\login.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../public/vendor/codeigniter4/shield/src/Views.login.php): Failed to open stream: No such file or directory', 'D:\\demopro\\App\\Views\\login.php', 2)
+ 2 APPPATH\Views\login.php(2): include()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\WanderLust.php(17): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-25 03:35:27 --> ErrorException: include(../../public): Failed to open stream: No such file or directory
+in APPPATH\Views\login.php on line 2.
+ 1 APPPATH\Views\login.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../public): Failed to open stream: No such file or directory', 'D:\\demopro\\App\\Views\\login.php', 2)
+ 2 APPPATH\Views\login.php(2): include()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\WanderLust.php(17): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-25 03:35:39 --> ErrorException: include(../../public): Failed to open stream: No such file or directory
+in APPPATH\Views\login.php on line 2.
+ 1 APPPATH\Views\login.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../public): Failed to open stream: No such file or directory', 'D:\\demopro\\App\\Views\\login.php', 2)
+ 2 APPPATH\Views\login.php(2): include()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\WanderLust.php(17): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+CRITICAL - 2024-02-25 03:36:28 --> ErrorException: include(../../public/upload/apart.jpeg): Failed to open stream: No such file or directory
+in APPPATH\Views\login.php on line 2.
+ 1 APPPATH\Views\login.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../public/upload/apart.jpeg): Failed to open stream: No such file or directory', 'D:\\demopro\\App\\Views\\login.php', 2)
+ 2 APPPATH\Views\login.php(2): include()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\WanderLust.php(17): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')
+INFO - 2024-02-25 03:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-02-25 03:36:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2024-02-25 03:37:06 --> ErrorException: include(../../vendor): Failed to open stream: No such file or directory
+in APPPATH\Views\login.php on line 2.
+ 1 APPPATH\Views\login.php(2): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include(../../vendor): Failed to open stream: No such file or directory', 'D:\\demopro\\App\\Views\\login.php', 2)
+ 2 APPPATH\Views\login.php(2): include()
+ 3 SYSTEMPATH\View\View.php(228): include('D:\\demopro\\App\\Views\\login.php')
+ 4 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render('login', [], true)
+ 6 APPPATH\Controllers\WanderLust.php(17): view('login')
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\WanderLust->login()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\WanderLust))
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\demopro\\public\\index.php')

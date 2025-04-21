@@ -1,0 +1,14 @@
+ERROR - 2024-01-04 14:42:33 --> mysqli_sql_exception: Incorrect table definition; there can be only one auto column and it must be defined as a key in D:\demopro\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 D:\demopro\vendor\codeigniter4\framework\system\Database\MySQLi\Connection.php(306): mysqli->query('CREATE TABLE `s...', 0)
+#1 D:\demopro\vendor\codeigniter4\framework\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('CREATE TABLE `s...')
+#2 D:\demopro\vendor\codeigniter4\framework\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('CREATE TABLE `s...')
+#3 D:\demopro\vendor\codeigniter4\framework\system\Database\Forge.php(546): CodeIgniter\Database\BaseConnection->query('CREATE TABLE `s...')
+#4 D:\demopro\app\Database\Migrations\2024-01-04-142246_Students.php(25): CodeIgniter\Database\Forge->createTable('students')
+#5 D:\demopro\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(865): App\Database\Migrations\Students->up()
+#6 D:\demopro\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(181): CodeIgniter\Database\MigrationRunner->migrate('up', Object(stdClass))
+#7 D:\demopro\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(84): CodeIgniter\Database\MigrationRunner->latest(NULL)
+#8 D:\demopro\vendor\codeigniter4\framework\system\CLI\Commands.php(65): CodeIgniter\Commands\Database\Migrate->run(Array)
+#9 D:\demopro\vendor\codeigniter4\framework\system\CLI\Console.php(46): CodeIgniter\CLI\Commands->run('migrate', Array)
+#10 D:\demopro\spark(102): CodeIgniter\CLI\Console->run()
+#11 {main}
